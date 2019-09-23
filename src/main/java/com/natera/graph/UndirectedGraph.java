@@ -1,7 +1,5 @@
 package com.natera.graph;
 
-import java.util.List;
-
 import com.natera.graph.holders.EdgesHolder;
 import com.natera.graph.holders.UndirectedEdgesHolder;
 
